@@ -1,6 +1,6 @@
 {
   "name": "fairy-name",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A quick generator to get long fairy name.",
   "main": "./build/index.js",
   "scripts": {
